@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchExercise</string>
+    <string name="fetch_exercise_title">FETCH EXERCISE</string>
+    <string name="continue_text">CONTINUE</string>
+    <string name="fetch_image">fetch image</string>
+    <string name="list_items">List of Items</string>
+</resources>
