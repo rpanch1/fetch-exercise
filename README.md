@@ -1,5 +1,5 @@
 # About
-This is an android application made in android studio using Kotlin. <br>
+This is an android application made in Android Studio using Kotlin. <br>
 It displays json data retrieved from https://fetch-hiring.s3.amazonaws.com/hiring.json
 
 ## How to run the Application
